@@ -1,1 +1,1 @@
-Laravel Restful Api with Sanctum Authentication/authorization
+Laravel RESTful Api with Sanctum Authentication/authorization
